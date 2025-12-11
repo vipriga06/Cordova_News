@@ -1099,3 +1099,67 @@
 2025-12-11 19:13:12.385 HelloCordova[16408:145413] Respuesta recibida: 200
 2025-12-11 19:13:12.389 HelloCordova[16408:145413] Datos recibidos: [object Object]
 2025-12-11 19:13:12.391 HelloCordova[16408:145413] Artículos cargados: 20
+2025-12-11 19:26:48.466 HelloCordova[19755:173036] Apache Cordova iOS platform version 8.0.0 is starting.
+2025-12-11 19:26:48.742 HelloCordova[19755:173036] Failed to set (showSplashScreen) user defined inspected property on (HelloCordova.ViewController): [<HelloCordova.ViewController 0x10600b000> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key showSplashScreen.
+2025-12-11 19:26:48.782 HelloCordova[19755:173036] Could not load the "LaunchStoryboard" image referenced from a nib in the bundle with identifier "io.cordova.hellocordova"
+2025-12-11 19:26:49.256 HelloCordova[19755:173036] The preference key "AllowNewWindows" is not defined and will default to "FALSE"
+2025-12-11 19:26:49.268 HelloCordova[19755:173036] The preference key "MediaPlaybackAllowsAirPlay" is not defined and will default to "TRUE"
+2025-12-11 19:26:49.268 HelloCordova[19755:173036] The preference key "LimitsNavigationsToAppBoundDomains" is not defined and will default to "FALSE"
+2025-12-11 19:26:49.317 HelloCordova[19755:173036] The preference key "InspectableWebview" is not defined and will default to "TRUE"
+2025-12-11 19:26:49.323 HelloCordova[19755:173036] The preference key "AllowBackForwardNavigationGestures" is not defined and will default to "FALSE"
+2025-12-11 19:26:49.323 HelloCordova[19755:173036] The preference key "Allow3DTouchLinkPreview" is not defined and will default to "TRUE"
+2025-12-11 19:26:49.323 HelloCordova[19755:173036] Using WKWebView
+2025-12-11 19:26:49.345 HelloCordova[19755:173036] [CDVTimer][console] 0.860095ms
+2025-12-11 19:26:49.348 HelloCordova[19755:173036] [CDVTimer][handleopenurl] 0.058055ms
+2025-12-11 19:26:49.350 HelloCordova[19755:173036] [CDVTimer][intentandnavigationfilter] 2.465010ms
+2025-12-11 19:26:49.350 HelloCordova[19755:173036] [CDVTimer][gesturehandler] 0.025988ms
+2025-12-11 19:26:49.350 HelloCordova[19755:173036] [CDVTimer][statusbarinternal] 0.007987ms
+2025-12-11 19:26:49.350 HelloCordova[19755:173036] [CDVTimer][TotalPluginStartup] 5.966902ms
+2025-12-11 19:26:58.815 HelloCordova[19755:173036] Running cordova-ios@8.0.0
+2025-12-11 19:26:58.816 HelloCordova[19755:173036] ========== INICIALIZANDO APLICACIÓN ==========
+2025-12-11 19:26:58.816 HelloCordova[19755:173036] Sidenav inicializado
+2025-12-11 19:26:58.816 HelloCordova[19755:173036] Botón de carga vinculado correctamente
+2025-12-11 19:26:58.816 HelloCordova[19755:173036] Mostrando tab inicial (tab1)
+2025-12-11 19:26:58.817 HelloCordova[19755:173036] 🔄 Activando tab: tab1
+2025-12-11 19:26:58.817 HelloCordova[19755:173036] Total tabs encontrados: 3
+2025-12-11 19:26:58.817 HelloCordova[19755:173036] ✅ Mostrando tab: tab1
+2025-12-11 19:26:58.817 HelloCordova[19755:173036] ✅ Tab activado completamente: tab1
+2025-12-11 19:26:58.818 HelloCordova[19755:173036] Inicializando swipe - Ancho de ventana: 402
+2025-12-11 19:26:58.818 HelloCordova[19755:173036] ✅ Swipe activado para 3 tab-panes
+2025-12-11 19:26:58.986 HelloCordova[19755:173036] The preference key "AutoHideSplashScreen" is not defined and will default to "TRUE"
+2025-12-11 19:27:01.819 HelloCordova[19755:173036] Click en tab link: tab2
+2025-12-11 19:27:01.819 HelloCordova[19755:173036] 🔄 Activando tab: tab2
+2025-12-11 19:27:01.821 HelloCordova[19755:173036] Total tabs encontrados: 3
+2025-12-11 19:27:01.822 HelloCordova[19755:173036] ✅ Mostrando tab: tab2
+2025-12-11 19:27:01.836 HelloCordova[19755:173036] ✅ Tab activado completamente: tab2
+2025-12-11 19:27:02.293 HelloCordova[19755:173036] Click en tab link: tab1
+2025-12-11 19:27:02.293 HelloCordova[19755:173036] 🔄 Activando tab: tab1
+2025-12-11 19:27:02.293 HelloCordova[19755:173036] Total tabs encontrados: 3
+2025-12-11 19:27:02.293 HelloCordova[19755:173036] ✅ Mostrando tab: tab1
+2025-12-11 19:27:02.314 HelloCordova[19755:173036] ✅ Tab activado completamente: tab1
+2025-12-11 19:27:02.806 HelloCordova[19755:173036] Iniciando carga de artículos...
+2025-12-11 19:27:02.821 HelloCordova[19755:173036] Haciendo fetch a: https://api.spaceflightnewsapi.net/v4/articles/?limit=20
+2025-12-11 19:27:04.313 HelloCordova[19755:173036] Respuesta recibida: 200
+2025-12-11 19:27:04.316 HelloCordova[19755:173036] Datos recibidos: [object Object]
+2025-12-11 19:27:04.316 HelloCordova[19755:173036] Artículos cargados: 20
+2025-12-11 19:27:05.251 HelloCordova[19755:173036] Touch start: 269 621
+2025-12-11 19:27:05.734 HelloCordova[19755:173036] Touch end: 261 429
+2025-12-11 19:27:05.734 HelloCordova[19755:173036] Swipe - diffX: -8 diffY: 192 isHorizontal: false
+2025-12-11 19:27:06.952 HelloCordova[19755:173036] Click en tab link: tab3
+2025-12-11 19:27:06.953 HelloCordova[19755:173036] 🔄 Activando tab: tab3
+2025-12-11 19:27:06.954 HelloCordova[19755:173036] Total tabs encontrados: 3
+2025-12-11 19:27:06.955 HelloCordova[19755:173036] ✅ Mostrando tab: tab3
+2025-12-11 19:27:06.962 HelloCordova[19755:173036] ✅ Tab activado completamente: tab3
+2025-12-11 19:27:07.347 HelloCordova[19755:173036] Click en tab link: tab2
+2025-12-11 19:27:07.350 HelloCordova[19755:173036] 🔄 Activando tab: tab2
+2025-12-11 19:27:07.351 HelloCordova[19755:173036] Total tabs encontrados: 3
+2025-12-11 19:27:07.351 HelloCordova[19755:173036] ✅ Mostrando tab: tab2
+2025-12-11 19:27:07.353 HelloCordova[19755:173036] ✅ Tab activado completamente: tab2
+2025-12-11 19:27:08.765 HelloCordova[19755:173036] Click en tab link: tab3
+2025-12-11 19:27:08.766 HelloCordova[19755:173036] 🔄 Activando tab: tab3
+2025-12-11 19:27:08.766 HelloCordova[19755:173036] Total tabs encontrados: 3
+2025-12-11 19:27:08.766 HelloCordova[19755:173036] ✅ Mostrando tab: tab3
+2025-12-11 19:27:08.768 HelloCordova[19755:173036] ✅ Tab activado completamente: tab3
+2025-12-11 19:27:09.558 HelloCordova[19755:173036] Touch start: 222 578
+2025-12-11 19:27:09.798 HelloCordova[19755:173036] Touch end: 154 63
+2025-12-11 19:27:09.798 HelloCordova[19755:173036] Swipe - diffX: -68 diffY: 515 isHorizontal: false
